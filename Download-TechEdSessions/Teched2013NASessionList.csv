@@ -1,0 +1,748 @@
+Code,Name
+ATC-B201,1984  21st Century Security Surveillance vs. the Erosion of Freedom
+ATC-B202,A Journey to the Dark Side of Social Networking
+ATC-B203,Architecting a Cloud Infrastructure  A Practical Design Scenario
+ATC-B204,Best Practices for Building Your Strategy for a Private Cloud
+ATC-B205,Building Resilient Services  The Journey to Failure Mode and Effects Analysis (FMEA) at Microsoft
+ATC-B206,Demystifying Devices and Services
+ATC-B207,Envisioning the Modern Datacenter
+ATC-B209,Identity Infrastructure Fundamentals and Essential Capabilities
+ATC-B210,Pass the Hash and Other Credential Theft and Reuse  Preventing Lateral Movement and Privilege Escalation
+ATC-B211,Patterns and Practices for the Hybrid World
+ATC-B212,The Cloud Service Provider Architecture
+ATC-B213,The Cloud  Making the Move to a Hybrid World
+ATC-B214,Win with Private Cloud  How to Drive Down TCO for Datacenter Applications
+ATC-B220,Patterns of Cloud Integration
+ATC-B301,Adventures in Underland  What Passwords Do When No One Is Watching
+ATC-B302,"APTs  Cybercrime, Cyber Attacks, Warfare and Threats Exposed"
+ATC-B303,Bridging the Gap  Securely Connecting Windows Azure and Private Clouds
+ATC-B306,Cybercrime  The 2013 Ultimate Survival Guide
+ATC-B307,Hackers (Not) Halted (repeats on 6 6 at 2 45pm)
+ATC-B307-R,Hackers (Not) Halted (repeated from 6 5 at 5pm)
+ATC-B308,License to Kill  Malware Hunting with the Sysinternals Tools
+ATC-B309,Live Demonstration  Hacker Tools You Should Know and Worry About
+ATC-B312,Security Experts Panel Discussion  Security for Hackers (BYOD)
+ATC-B313,Sysinternals Primer  TechEd 2013 Edition
+ATC-B314,The Inside Man  Surviving the Ultimate Cyber Threat
+ATC-B315,Think You Can Hack SharePoint 
+ATC-B316,Win in the Cloud Using Transparency and Trust
+ATC-B318,Windows 8 Security Internals
+BOF-DEV03,CQRS Command and Query Responsibility Segregation
+BOF-DEV08,Microsoft Visual Studio Team Foundation Server Tips & Tricks
+BOF-DEV10,NHibernate and Entity Framework  Who?s the Big Chief 
+BOF-DEV12,Open Data?Protocol?(OData) and the New OASIS Standard
+BOF-DEV14,The Challenges and Opportunities of Cross-Platform Cross-Device App Development
+BOF-DEV15,Line-of-Business (LOB) Apps in Windows 8
+BOF-DEV20,Towards a Lightweight Integration Bus
+BOF-DEV26,Building a Company Hub for Windows Phone 8
+BOF-DEV33,Is Creating a Multi-Platform Multi-Device Application Truly a Challenge 
+BOF-IPT11,"What?s New in Microsoft Project 2013, Project Server 2013 and Project Online  A Guided Discovery"
+BOF-ITP01,The Evolving Role of Microsoft Technologies in Higher Education
+BOF-ITP02,Hybrid Cloud Management Roundtable
+BOF-ITP04,PowerScripting  Windows PowerShell Best Practices from the Field with The Scripting Guy
+BOF-ITP05,Getting Started with Windows PowerShell
+BOF-ITP05-R,Getting Started with Windows PowerShell (repeated from 6 3 at 4 45 pm)
+BOF-ITP06,The Ever Expanding Roles and Responsibilities of an Exchange Administrator
+BOF-ITP07,Marketing (Without a Marketing Team)
+BOF-ITP09,Microsoft System Center Reporting
+BOF-ITP13,Windows PowerShell and Microsoft SQL Server
+BOF-ITP17,Microsoft System Center Tips from the Field
+BOF-ITP21,How Far Can You Push Tabular 
+BOF-ITP22,Microsoft System Center 2012 SP1 - Virtual Machine Manager Services and Service Templates in the Real World   An Interactive Discussion
+BOF-ITP23,Practical PowerShell. Best Windows PowerShell Practices for the Real World
+BOF-ITP24,Smoothing the Kinks in the User Experience
+BOF-ITP25,System Management for Specific Applications  How Are Multiple Teams Working Together 
+BOF-ITP29,Microsoft System Center for the Provider
+BOF-ITP30,Next Generation Datacenters 
+BOF-ITP31,Cloud and Datacenter Management Roundtable
+BOF-ITP40,Why the Cloud Is So Important for the SME
+C9-01,Live Press Conference
+C9-02,Channel 9 Live at TechEd
+C9-03,Developer Keynote Updates
+C9-04,Windows Azure Service Pack
+C9-05,.NET & Modern Line-Of-Business Apps
+C9-06,What's New in Windows Server 2012 R2
+C9-07,What's New in Windows Server 2012 R2 Hyper-V
+C9-08,Whats New in Microsoft System Center 2012 R2 - Virtual Machine Manager
+C9-09,Microsoft ASP.NET
+C9-10,Windows 8 Updates
+C9-11,Upgrading Windows Server
+C9-12,Windows Enterprise Client
+C9-13,Windows Server 2012 R2 Hosters
+C9-14,Storage Changes in Windows Server 2012 R2
+C9-15,Windows Phone 8
+C9-16,Microsoft System Center 2012 R2 Automation
+C9-17,Why Server Core
+C9-18,Entity Framework 6
+C9-19,Windows RT in the Enterprise
+C9-20,Best Practices with Async
+C9-21,.NET and Domain-Driven Design
+C9-22,.NET and Event-Driven Application Development and CQRS
+C9-23,Defrag Tools Live
+C9-24,Windows Server Networking tools
+C9-25,Toyota Racing
+DBI-B201,Lap Around Windows Azure SQL Database and Microsoft SQL Server in Windows Azure Virtual Machines
+DBI-B202,Lean and Mean  Running Microsoft SQL Server on Windows Server Core 
+DBI-B203,Maintain Microsoft SQL Server System and Performance Data with Windows PowerShell
+DBI-B204,"Microsoft SQL Server In-Memory OLTP  Overview of Project ""Hekaton"""
+DBI-B205,Microsoft SQL Server Management Basics for Non-DBAs
+DBI-B206,"Private Cloud - Better Together  Microsoft SQL Server 2012, Windows Server 2012 and System Center 2012 "
+DBI-B207,Pushing Data to and from the Cloud with SQL Azure Data Sync
+DBI-B208,Self-Service Business Intelligence Governance
+DBI-B209,Dynamite Data Visualization with Power View in Microsoft Excel
+DBI-B210,BI Power Hour
+DBI-B215,Overview of Business Intelligence in Microsoft Office and SharePoint 2013
+DBI-B220,Effective Data Visualization
+DBI-B221,HDInsight  Introduction to Hadoop on Windows
+DBI-B225,"Microsoft Data Explorer for Excel  Discover, Combine, and Refine your Data"
+DBI-B302,Indexing Fundamentals for Microsoft SQL Server
+DBI-B303,Microsoft PowerPivot Excel 2013 in Action 
+DBI-B304,Large-Scale Data Warehousing and Big Data with Microsoft SQL Server Parallel Data Warehouse V2
+DBI-B305,Microsoft SQL Server Database Development with SQL Server Data Tools for Visual Studio 2012
+DBI-B306,Microsoft SQL Server High Availability and Disaster Recovery on Windows Azure
+DBI-B307,"Microsoft SQL Server In-Memory OLTP Project ""Hekaton""  App Dev Deep Dive"
+DBI-B308,"Microsoft SQL Server In-Memory OLTP Project ""Hekaton""  Management Deep Dive"
+DBI-B309,Microsoft SQL Server Transaction Log Internals
+DBI-B310,Windows Azure Virtual Machines and SQL Unplugged
+DBI-B311,Performance Tuning Microsoft SQL Server in Windows Azure Virtual Machines
+DBI-B312,Planning and Deploying a Managed Self-Service BI Environment 
+DBI-B313,Polybase  Hadoop Integration in SQL Server PDW V2 
+DBI-B314,Protecting Your Data in Windows Azure SQL Database
+DBI-B315,Querying in DAX
+DBI-B316,Running BI Workloads on Windows Azure Virtual Machines
+DBI-B317,Microsoft SQL Server Future and Features
+DBI-B318,SQLCAT  Microsoft SQL Server 2012 AlwaysOn HA DR Customer Panel - Mission Critical Deployments and Lessons Learned
+DBI-B319,The DBAs Worst Nightmares
+DBI-B320,Tips and Tricks for Building Rich Reports in Microsoft SQL Server 2012 Reporting Services
+DBI-B321,Using Power View with Multidimensional Models
+DBI-B322,What's New for Columnstore Indexes and Batch Mode Processing
+DBI-B323,Windows Azure SQL Database for the DBA
+DBI-B325,Do You Have Big Data  (Most Likely!)
+DBI-B326,Deploying Microsoft SQL Server Reporting Services in SharePoint Mode  Why and How
+DBI-B328,Delivering KPIs with Microsoft SQL Server Analysis Services
+DBI-B329,"Overview, Best Practices and Lessons Learned on Microsoft SQL Server in Windows Azure Virtual Machines"
+DBI-B330,Cloud Optimizing T-SQL  What You Need to Know if You Use SQL Database or Microsoft SQL Server 2012
+DBI-B331,Developing and Managing a BI Semantic Tabular Model in Microsoft SQL Server 2012 Analysis Services
+DBI-B334,Data Management in Microsoft HDInsight  How to Move and Store Your Data
+DBI-B336,Big Data Analytics with Microsoft Excel 2013
+DBI-B337,Query Performance Tuning Techniques For Windows Azure SQL Database
+DBI-B338,Lap Around Non-Relational Datastores on Windows Azure
+DBI-B339,Predictive Analytics with Microsoft Big Data
+DBI-B395,"Any Data, Any Size  Architecting Breakthrough Performance with Mission Critical Solutions Built on HP AppSystem for Parallel Data Warehouse"
+DBI-B401,Enriching Big Data for Analysis
+DBI-B404,"Data, Faster  Microsoft SQL Server Performance Techniques with SQLCLR"
+DBI-B405,Deep Inside the Microsoft SQL Server Integration Services Server
+DBI-H201,Creating a PowerPivot Workbook in Microsoft Excel 2013
+DBI-H202,Creating a Microsoft SQL Server Reporting Services Report Based on a Tabular BI Semantic Model
+DBI-H203,Creating a PerformancePoint Services Dashboard Based on a Microsoft SQL Server 2012 BI Semantic Model
+DBI-H204,Optimizing a Microsoft SQL Server 2012 Tabular BI Semantic Model
+DBI-H205,Developing a Microsoft SQL Server 2012 Tabular BI Semantic Model Using SQL Server Data Tools
+DBI-H206,Exploring Power View in Microsoft SQL Server 2012
+DBI-H207,Implementing Transparent Database Encryption
+DBI-H208,Installing Microsoft SQL Server 2012 on Windows 2012 Server Core
+DBI-H209,Exploring New T-SQL Features in Microsoft SQL Server 2012
+DBI-H210,Installing Microsoft SQL Server 2012 on Windows Server 2012
+DBI-H211,"Exploring Microsoft SQL Server 2012 Project Codename ""Hekaton"""
+DBI-H212,Exploring Microsoft SQL Server Data Tools in Visual Studio 2012
+DBI-H213,Upgrading to Microsoft SQL Server 2012 from SQL Server 2005 and 2008
+DBI-H214,Introduction to Microsoft SQL Server 2012 AlwaysOn Availability Groups
+DBI-H215,Data Platform Showcase on Microsoft SQL Server 2012
+DBI-H216,Implementing and Managing AlwaysOn Availability Groups
+DBI-H300,Exploring Data Explorer in Microsoft Excel 2013
+DBI-H301,"Data Visualization with ""Geoflow"" in Microsoft Excel 2013"
+DEV-B201,Design or Die  The Challenge to the Microsoft Developer Ecosystem
+DEV-B202,Scrum Under a Waterfall
+DEV-B203,TypeScript  Scaling Up JavaScript
+DEV-B204,Positioning Microsoft Development Technologies for Custom Application Development
+DEV-B206,Tips and Tricks for Building Real-World International Windows Store Apps
+DEV-B207,Understanding Dependency Injection and Those Pesky Containers
+DEV-B208,Getting a Designer Developer Workflow That Works
+DEV-B209,"Serious Web Services  Windows Communication Foundation (WCF), Web API, OData, and More"
+DEV-B212,Agile Software Development with Microsoft Visual Studio ALM 
+DEV-B215,Taking Application Lifecycle Management to the Cloud with the Team Foundation Service
+DEV-B215-R,Taking Application Lifecycle Management to the Cloud with the Team Foundation Service (repeated from 6 4 at 8 30 am)
+DEV-B218,Partner Solutions for Modernizing Your .NET Applications
+DEV-B301,20 Modern Visual C++ Best Practices 
+DEV-B302,Microsoft ASP.NET SignalR  The Real-Time Web Made Simple
+DEV-B304,Building an MVVM-Based Architecture That Works for Windows Store Apps
+DEV-B305,Building Apps with the Kinect for Windows SDK
+DEV-B307,"Building Modern, HTML5-Based Business Apps on Windows Azure with Microsoft Visual Studio LightSwitch"
+DEV-B307-R,"Building Modern, HTML5-Based Business Apps on Windows Azure with Microsoft Visual Studio LightSwitch (repeated from 6 4 at 1 30)"
+DEV-B308,Building OData Services with ASP.NET Web API
+DEV-B309,Design Guidance for Windows Store Line-of-Business Apps
+DEV-B310,Designing Apps for the Windows Store
+DEV-B311,Developing Core Business Applications with Domain-Driven Design (DDD) and Microsoft .NET
+DEV-B312,DevOps  Increasing Application Lifecycle Efficiencies with Microsoft Visual Studio and System Center
+DEV-B313,Diagnostic Tips and Tricks for JavaScript-Based Windows Store Applications Using Visual Studio
+DEV-B314,"Microsoft ASP.NET, Web, and Cloud Tools Preview "
+DEV-B317,Easy Async for Windows Store Apps in Microsoft Visual C# and Microsoft Visual Basic
+DEV-B318,"Creating Async Libraries That Are Modular, Reusable and Fast, in Microsoft Visual C# and Visual Basic"
+DEV-B319,Three Essential Tips for Using Async in Microsoft Visual C# and Visual Basic
+DEV-B320,Agile Testing Across Browsers and Across Devices
+DEV-B321,Improving Developer Productivity and Software Quality with Microsoft Visual Studio Application Lifecycle Tools
+DEV-B322,DirectX Graphics Development with Microsoft Visual Studio 2012
+DEV-B323,Deep Dive into the Team Foundation Server Agile Planning Tools
+DEV-B324,Build Data-Rich Solutions Faster with Microsoft Visual F#
+DEV-B325,Modernizing WPF Line-of-Business Applications
+DEV-B326,Managing Requirements and User Expectations in Agile Projects
+DEV-B327,Software Testing with Microsoft Test Manager 2012 and Lab Management 2012
+DEV-B329,Continuous Deployment with Microsoft Visual Studio
+DEV-B330,Flexible Source Control with Team Foundation Service and Git
+DEV-B331,Brownfield Development  Taming Legacy Code with Better Unit Testing and Microsoft Fakes
+DEV-B332,Testing and Debugging Microsoft SharePoint Applications with Microsoft Visual Studio 2012
+DEV-B333,Essential Truths Everyone Should Know about Performance in a Large Managed Codebase
+DEV-B335,"Entity Framework 6  Database Access Anywhere, Easily"
+DEV-B336,Entity Framework in Core Business Applications and Domain-Driven Design Approaches
+DEV-B337,How to Build ASP.NET Web Applications Using Async
+DEV-B338,KnockoutJS and MVVM  Tips for Building HTML and JavaScript Web Apps
+DEV-B341,Master Navigation in Windows Store Apps
+DEV-B342,"Building Modern, HTML5-based Business Apps for SharePoint 2013 with Visual Studio LightSwitch"
+DEV-B343,Real Experiences and Architectural Domain-Driven Design Patterns Applied on Microsoft .NET Development
+DEV-B350,Single Page Applications with Microsoft ASP.NET
+DEV-B351,"Smoothly Navigating the Windows Store Submission, Certification, and Listing Process"
+DEV-B352,Tips and Techniques for Building High Quality Windows Store Apps
+DEV-B353,Visual Studio Tips and Tricks
+DEV-B354,Cloud-Powered Web Apps in Minutes with Windows Azure Mobile Services
+DEV-B357,"Tiles, Toasts, and Notifications in Windows Store Apps"
+DEV-B358,Building Windows Store Line-of-Business Applications
+DEV-B360,"ASP.NET Web API  Web Services for Websites, Modern Apps, and Mobile Apps "
+DEV-B402,Advanced Debugging of ASP.NET Applications with Visual Studio 2012
+DEV-B403,Under the Hood of WinRT Background APIs
+DEV-H301,Lap Around the Microsoft Visual Studio 2012 Development Environment
+DEV-H302,Asynchronous Programming in the Microsoft .NET Framework 4.5
+DEV-H303,Build RESTful APIs with the Microsoft ASP.NET Web API
+DEV-H304,Building JavaScript and HTML5 Mobile Applications with Microsoft Visual Studio LightSwitch
+DEV-H305,Building Workflows with the State Machine Activity
+DEV-H306,Developing SharePoint Applications Using Microsoft Visual Studio LightSwitch
+DEV-H307,Integrating Development and Operations with Microsoft Visual Studio Team Foundation Server 2012 and System Center 2012 - Operations Manager
+DEV-H308,Agile Project Management in Microsoft Visual Studio Team Foundation Server 2012
+DEV-H309,Building the Right Software  Generating Storyboards and Collecting Stakeholder Feedback with Microsoft Visual Studio 2012
+DEV-H310,Diagnosing Issues in Production with IntelliTrace and Microsoft Visual Studio 2012
+DEV-H311,"Unit Testing, Code Coverage, and Code Clone Analysis with Microsoft Visual Studio 2012"
+DEV-H312,Making Developers More Productive with Microsoft Visual Studio Team Foundation Server 2012
+DEV-H313,Exploratory Testing and Other Enhancements in Microsoft Test Manager 2012
+DEV-H314,Introduction to PreEmptive Analytics
+DEV-H315,Testing and Debugging Microsoft SharePoint 2010 Applications with Visual Studio 2012
+DEV-H316,Authoring and Running Manual Tests Using Microsoft Test Manager 2012
+DEV-H317,Introduction to Coded UI Tests with Microsoft Visual Studio Ultimate 2012
+DEV-H319,Using Blend to Build Windows Store Apps in HTML
+DEV-H321,Using Microsoft ADO.NET Entity Framework 5.0
+DEV-H322,Using Page Inspector in Microsoft Visual Studio 2012
+DEV-H323,Using Portable Class Libraries
+DEV-H324,Using the New App Model in Microsoft SharePoint 2013 and Office 2013
+DEV-H325,What's New in the Microsoft .NET Framework 4.5
+DEV-H326,What's New in Windows Communication Foundation 4.5
+DEV-H327,What's New in Microsoft ASP.NET and Web Development in Microsoft Visual Studio 2012
+DEV-H328,What's New in Microsoft ASP.NET MVC 4
+DEV-H329,What's New in Microsoft ASP.NET Web Forms 4.5
+DEV-H330,What's New in Microsoft Visual Studio 2012 for C++ Developers
+DEV-IL201,Get Started with Team Foundation Service (repeats on 6 5 at 5pm)
+DEV-IL201-R,Get Started with Team Foundation Service (repeated from 6 4 at 8 30am)
+DEV-IL202,Creating a Windows Store Application  XAML and C# from Start to Finish (repeats on 6 6 at 10 15am)
+DEV-IL202-R,Creating a Windows Store Application  XAML and C# from Start to Finish (repeated from 6 4 at 10 15am)
+DW01,Disruptive Innovations in Data Protection  Free Exchange and SharePoint Data Recovery
+DW02,"Building a Scalable, High Performance Microsoft Private Cloud Using HP Cloud Solutions for Microsoft"
+DW03,Building a Fully Provisioned Private Cloud with Best Practices from EMC
+DW04,NetApp Private Storage for Public Clouds
+DW05,LSI Digital Wall Presentation
+DW06,Maximizing Virtualization  The Value of Density in Virtualization-Optimized Platforms
+EXM01,Exam Prep  70-410 and 70-417 - MCSA  Windows Server 2012
+EXM02,Exam Prep  70-411 and 70-417 - MCSA  Windows Server 2012
+EXM03,Exam Prep  70-412 and 70-417 - MCSA  Windows Server 2012
+EXM05,Exam prep  70-413 and 70-414 - MCSE  Server Infrastructure
+EXM06,Exam prep  70-415 and 70-416 - MCSE  Desktop Infrastructure
+EXM07,Exam Prep  70-246 and 70-247 - MCSE  Private Cloud
+EXM08,Exam Prep  70-689 - MCSA  Windows 8
+EXM10,Exam Prep  70-331 and 70-332 - MCSE  SharePoint (Microsoft SharePoint Server 2013)
+EXM101,Microsoft Certification and You
+EXM101-R,Microsoft Certification and You (Repeat)
+EXM11,Exam Prep  70-336 and 70-337 - MCSE  Communications (Microsoft Lync Server 2013)
+EXM12,Exam Prep  70-341 and 70-342 - MCSE  Messaging (Microsoft Exchange Server 2013)
+EXM13,Exam Prep  70-410 and 70-417 - MCSA  Windows Server 2012 (Repeat)
+EXM14,Exam Prep  70-464  MCSE  Data Platform  SQL Server 2012
+EXM15,Exam Prep  70-465  MCSE  Data Platform  SQL Server 2012
+EXM16,Exam Prep  70-466  MCSE  Business Intelligence  SQL Server 
+EXM17,Exam Prep  70-467  MCSE  Business Intelligence  SQL Server 
+FDN01,Big Data. Small Data. All Data.
+FDN02,Building Modern Business Applications
+FDN03,Enabling People-Centric IT
+FDN04,Microsoft Office & SharePoint 2013 Development  Introduction to the New Cloud App Model
+FDN05,Modern Application Lifecycle Management
+FDN06,Transform the Datacenter with Server and Management Innovations from Microsoft
+FDN07,Windows in the Enterprise
+IDOL-01,Speaker Idol
+IDOL-02,Speaker Idol
+IDOL-03,Speaker Idol
+IDOL-04,Speaker Idol
+Key01,Keynote Presentation
+MDC-B201,Microsoft System Center 2012 - Orchestrator  Crash Course
+MDC-B202,Running and Managing Linux and UNIX with Hyper-V and Microsoft System Center
+MDC-B203,Deploying Applications in Microsoft System Center 2012 - Virtual Machine Manager Using Services
+MDC-B204,Microsoft System Center 2012 - Orchestrator  Integration Packs 
+MDC-B205,Introduction to Windows Server 2012 R2
+MDC-B206,Introduction to System Center 2012 R2
+MDC-B207,The Top Ten New Features You Really Care about in Windows Server 2012 
+MDC-B208,Microsoft System Center 2012 SP1 - Operations Manager  Overview and What?s New
+MDC-B210,Everything You Need to Know about the Software Defined Networking Solution from Microsoft 
+MDC-B212,Infrastructure Services on Windows Azure  Virtual Machines and Virtual Networks with Mark Russinovich
+MDC-B213,IaaS  Hosting a Microsoft SharePoint 2013 Farm on Windows Azure
+MDC-B214,Windows Azure Services for Windows Server
+MDC-B215,"Building Cloud Services with Windows Server 2012 R2, Microsoft System Center 2012 R2 and the Windows Azure Pack"
+MDC-B216,What?s New in Windows Server 2012 R2 Networking
+MDC-B217,Deploying Windows Server 2012 R2 File Services for Exceptional $ IOPS 
+MDC-B218,Storage Spaces  What?s New in Windows Server 2012 R2
+MDC-B292,Microsoft System Center Data Protection Manager and Veeam  Better Together
+MDC-B300,Running your Active Directory in Windows Azure Virtual Machines
+MDC-B302,Desired State Configuration in Windows Server 2012 R2 PowerShell
+MDC-B303,Internet Information Services  What?s New in Window Server 2012 R2
+MDC-B304,Managing Multi-Hypervisor Environments with System Center 2012
+MDC-B305,Continuous Availability  Deploying and Managing Clusters Using Windows Server 2012 R2
+MDC-B306,"Implementing Enterprise-Scale Disaster Recovery with Hyper-V Replica, Windows Network Virtualization and Microsoft System Center 2012 SP1"
+MDC-B308,Tips and Tricks for Creating Custom Management Packs for Microsoft System Center - Operations Manager
+MDC-B310,Microsoft System Center 2012  Managing a Microsoft Exchange Infrastructure and Lync Server 2013 - Better Together
+MDC-B311,Application Availability Strategies for the Private Cloud
+MDC-B312,Building Hosted Clouds Using Windows Server 2012 R2
+MDC-B316,Advanced Real-World Microsoft System Center Data Warehouse and Reporting
+MDC-B317,"How Microsoft Monitors Applications Using APM, Global Service Monitor, and Microsoft Visual Studio Web Testing"
+MDC-B318,Enabling Multi-Tenant IaaS Clouds in Microsoft System Center and Windows Server
+MDC-B320,CSPP Enables You to Deliver a Private Cloud in the Enterprise Coupled with Chargeback
+MDC-B321,Lessons Learned from Implementing Windows Server 2012 and System Center 2012 SP1 for Hosters (Service Providers)
+MDC-B322,Automating Microsoft System Center Deployment with the PowerShell Deployment Toolkit
+MDC-B323,Upgrading the Platform - How to Get There! Part 1  Re-Architecting Your Infrastructure with Windows Server 2012 and Microsoft System Center 2012 SP1
+MDC-B324,Key Metrics and Practices for Monitoring Virtualization Platforms
+MDC-B325,Mission  IT Operations for a Good Night's Sleep
+MDC-B326,Integrating with Microsoft System Center 2012 and Windows PowerShell
+MDC-B327,Monitoring and Managing the Network and Storage Infrastructure with Microsoft System Center 2012 - Operations Manager
+MDC-B328,Best Practices in Virtualizing and Managing Microsoft SQL Server with Microsoft System Center and Windows Server
+MDC-B329,Effective Capacity Planning of Your Infrastructure Resources with Microsoft System Center 2012 - Operations Manager Reporting
+MDC-B330,Hyper-V - What's New in Windows Server 2012 R2
+MDC-B331,Upgrading Your Private Cloud with Windows Server 2012 R2
+MDC-B333,Storage and Availability Improvements in Windows Server 2012 R2
+MDC-B335,"Understanding the Hyper-V over SMB Scenario, Configurations, and End-to-End Performance"
+MDC-B336,Cluster in a Box in 2013  How Real Customers Are Making Their Businesses Highly-Available with Windows Server 2012
+MDC-B337,Failover Cluster Networking Essentials
+MDC-B338,Overview of Windows Server 2012 Hyper-V
+MDC-B339,Windows Server 2012 Deployment and Ongoing Management  Why Server Core Is Right for You
+MDC-B340,Windows PowerShell Unplugged
+MDC-B341,StorSimple  Enabling Windows Azure Storage for Enterprise Workloads
+MDC-B342,Reduce Storage Costs with Data Deduplication
+MDC-B343,Top 5 Server Application Deployment and Servicing Problems Addressed by Server App-V and System Center 2012 SP1 - Virtual Machine Manager 
+MDC-B344,Storage Management  Spanning the Enterprise to Low Cost Scalable Solutions
+MDC-B345,Windows Server 2012 Hyper-V Storage Performance
+MDC-B346,Intel and Microsoft Software-Defined Networking Initiatives and Platforms
+MDC-B347,Migrating from VMware  Tools and Tips
+MDC-B348,Upgrading the Platform  - How to Get There! Part 3  Networking Infrastructure and Management
+MDC-B349,Upgrading the Platform  - How to Get There! Part 4  Your Fileservers and Storage Options
+MDC-B350,How to Design and Configure Networking in Microsoft System Center - Virtual Machine Manager and HyperV (Part 1 of 2)
+MDC-B351,How to Design and Configure Networking in Microsoft System Center - Virtual Machine Manager and HyperV (Part 2 of 2)
+MDC-B352,Comparing the Microsoft Private Cloud and the VMware vCloud
+MDC-B353,Comparing Windows Server Hyper-V and VMware vSphere
+MDC-B354,What's New in Microsoft System Center 2012 SP1
+MDC-B355,Windows Server 2012 Failover Cluster Disaster Recovery  Everything You Need to Know to Prepare and Successfully Recover
+MDC-B356,Best Practices in Virtualizing and Managing Microsoft SharePoint with Microsoft System Center and Windows Server
+MDC-B357,What?s New in Microsoft System Center 2012 R2 - Virtual Machine Manager
+MDC-B360,Hybrid Networking Offerings in Windows Azure
+MDC-B361,Best Practices from Real Customers  Deploying to Windows Azure Infrastructure Services (IaaS)
+MDC-B362,Administering and Automating On-Premises IaaS Scenarios Using the Windows Azure Pack
+MDC-B364,Enabling On-Premises IaaS Solutions with the Windows Azure Pack
+MDC-B365,"Better Networking, More Net Gains  How Windows Server 2012 Can Be Your Director of Protocol(s)"
+MDC-B366,"Windows Server Storage for Non-Windows Clients (Including Apple OS X, Linux, and VMware)"
+MDC-B370,"Building Your Lab, Dev, and Test Scenarios in Windows Azure Infrastucture Services (IaaS)"
+MDC-B371,Building Reliable and Resilient Apps on Windows Azure Infrastructure Services (IaaS)
+MDC-B373,"Understanding Hyper-V Replica  Performance, Networking and Automation"
+MDC-B374,Workloads  Monitoring the Microsoft Private Cloud Fabric with Microsoft System Center 2012 SP1 - Operations Manager
+MDC-B375,Microsoft Private Cloud Fast Track v3  Private Cloud Reference Architecture Based on Windows Server 2012 and Microsoft System Center 2012 SP1
+MDC-B376,Networking for Cloud Services in Windows Server 2012 R2
+MDC-B377,Windows Azure in the Enterprise
+MDC-B380,Deep Dive on Hyper-V Network Virtualization in Windows Server 2012 R2
+MDC-B381,DevOps  Global Service Monitoring 
+MDC-B391,Practical Implementation of Windows Server 2012 Storage Technologies
+MDC-B392,"Deliver IT Agility in the Modern Datacenter with Integration of Virtualization, Cloud, and Application Infrastructure"
+MDC-B394,Shouldn?t All of Your Storage Be Highly Available 
+MDC-B400,Advanced Automation Using Windows PowerShell
+MDC-B401,Automate Private Cloud Protection and Recovery with Microsoft System Center 2012 - Data Protection Manager
+MDC-B402,Monitor Your Cloud Application Infrastructure on Windows Azure and Amazon EC2
+MDC-B405,Crash Course on Automating Deployments in Windows Azure Virtual Machines. How and Which Tools 
+MDC-B406,Achieve High Availability with Microsoft SQL Server on Windows Azure Virtual Machines
+MDC-H201,Implementing Storage Pools and Storage Spaces
+MDC-H202,Active Directory Deployment and Management Enhancements
+MDC-H203,Getting Started with Windows Server 2012 Hyper-V Replication
+MDC-H204,Introduction to DirectAccess in Windows Server 2012
+MDC-H206,Introduction to Windows PowerShell Fundamentals
+MDC-H207,Managing Branch Offices
+MDC-H208,Managing Your Network Infrastructure with IP Address Management
+MDC-H209,Microsoft System Center 2012  Application Performance Monitoring
+MDC-H210,Microsoft System Center 2012  Configuring Your Infrastructure
+MDC-H211,Microsoft System Center 2012  Configuring Your Private Cloud
+MDC-H212,Microsoft System Center 2012  Installation and Deployment
+MDC-H214,Microsoft System Center 2012  Chargeback and Reporting
+MDC-H215,Microsoft System Center 2012  Creating a Management Pack in Microsoft Visio
+MDC-H216,Using Dynamic Access Control to Automatically and Centrally Secure Data
+MDC-H217,What's New in Windows PowerShell 3.0
+MDC-H302,Building a Windows Server 2012 Storage Infrastructure
+MDC-H303,Configuring Hyper-V over Highly Available SMB Storage
+MDC-H304,Creating a Resilient Network Infrastructure with Windows Server 2012
+MDC-H305,Creating a Web Farm for Multi-Tenant Applications
+MDC-H306,"Deploying and Configuring Windows Server 2012 Servers with Server Manager, Windows PowerShell, and MinShell"
+MDC-H308,Network Automation Using Window Server 2012 R2 IPAM
+MDC-H309,Deploying and Managing Your Small Business with Windows Server 2012 R2 Essentials
+MDC-H310,Desired State Configuration with Windows Server 2012 R2
+MDC-H312,Enhancements with Window Server 2012 R2 Hyper-v Replica
+MDC-H315,Microsoft System Center 2012 - Orchestrator  Overview and Automation of IT Process
+MDC-H316,Performing Basic Customizations for Microsoft System Center 2012 - Service Manager
+MDC-H317,Protecting File Servers with Microsoft System Center 2012 - Data Protection Manager
+MDC-H319,Integrating Microsoft System Center 2012 SP1 - Operations Manager with Team Foundation Server (TFS)
+MDC-H320,Microsoft System Center 2012  Hybrid Cloud Management
+MDC-H321,Microsoft System Center 2012  Network Virtualization
+MDC-H322,Microsoft System Center 2012  Service Delivery and Automation
+MDC-H324,Microsoft System Center 2012  Linux Configuration and Management
+MDC-H328,Deploying and Managing Microsoft Workloads with Microsoft System Center 2012
+MDC-H329,Monitoring Your Infrastructure and Network with Microsoft System Center 2012
+MDC-IL206,Desired State Configuration with Windows Server 2012 R2
+MDC-IL206-R,Desired State Configuration with Windows Server 2012 R2
+MDC-IL207,Network Automation Using Window Server 2012 R2 IPAM
+MDC-IL207-R,Network Automation Using Window Server 2012 R2 IPAM
+MDC-IL209,Deploying and Managing Your Small Business with Windows Server 2012 R2 Essentials
+MDC-IL301,"Transform the Datacenter Immersion, Part 1 of 4  Infrastructure Foundation"
+MDC-IL302,"Transform the Datacenter Immersion, Part 2 of 4  Infrastructure Management"
+MDC-IL303,"Transform the Datacenter Immersion, Part 3 of 4  Application Management"
+MDC-IL304,"Transform the Datacenter Immersion, Part 4 of 4  Insight and Availability"
+MDC-IL305,Active Directory Deployment and Management Enhancements (repeats on 6 5 at 1 30pm)
+MDC-IL305-R,Active Directory Deployment and Management Enhancements (repeated from 6 3 at 1 15pm)
+MDC-IL306,Microsoft System Center 2012  Network Virtualization (repeats on 6 5 at 5pm)
+MDC-IL306-R,Microsoft System Center 2012  Network Virtualization (repeated from 6 4 at 5pm)
+OUC-B201,Become a Microsoft Office Ninja in 60 Minutes
+OUC-B202,Choosing the Right Cloud Service
+OUC-B203,Collaborating with the New Microsoft Office Web Apps
+OUC-B204,Network Design and Deployment Strategies to Ensure Success for Microsoft Lync Server 2013 Enterprise Voice
+OUC-B205,Security in Microsoft Office 365
+OUC-B206,A Look Inside Microsoft Office 365
+OUC-B207,The New Outlook Web App  Designed for Touch and Offline Too!
+OUC-B208,Deploying Microsoft Office  Begin Here!
+OUC-B209,Microsoft Office 365 for Education  Overview and Upgrades
+OUC-B210,Team Collaboration with Site Mailboxes
+OUC-B211,Overview of Microsoft Office 365 Identity Management
+OUC-B212,Help Small Businesses Seize the Day with Microsoft Office 365
+OUC-B214,The Deep Dark Secrets of Unified Messaging
+OUC-B215,"Understanding Compliance in Microsoft Exchange, SharePoint, and Office"
+OUC-B216,Microsoft Office 365 Service Communications
+OUC-B217,Microsoft Office 365 Pro Plus Adoption and Change Management
+OUC-B218,Understanding Immersive Productivity and Collaboration Experiences with Perceptive Pixel Devices
+OUC-B222,Introducing Lync Room System
+OUC-B301,Data Loss Prevention in Microsoft Exchange and Microsoft Outlook 2013
+OUC-B302,Deploying and Updating?Microsoft Office 365 ProPlus with Click-to-Run
+OUC-B303,Designing for High Availability and Disaster Recovery in Microsoft Lync Server 2013
+OUC-B304,Developing Mobile Apps with Microsoft Exchange Web Services
+OUC-B305,Enterprise Network Requirements for Microsoft Lync Server 2013
+OUC-B306,Exchange Online Protection
+OUC-B307,Get Moving with Your Mailbox!
+OUC-B308,"Internals of Deploying the In-Place Archive  Online, On-Premises, or Hybrid"
+OUC-B310,"Microsoft Exchange Archiving Policy  Move, Delete, or Hold"
+OUC-B311,Microsoft Exchange Hybrid Deployment and Migration on Your Terms
+OUC-B312,Microsoft Exchange in the Cloud  Scared of Losing Your Job 
+OUC-B313,Microsoft Exchange Server 2013 Client Access Server Role
+OUC-B314,Microsoft Exchange Server 2013 High Availability and Site Resilience
+OUC-B315,Microsoft Exchange Server 2013 Managed Availability
+OUC-B316,Microsoft Exchange Server 2013 On-Premises Upgrade and Coexistence
+OUC-B317,Microsoft Exchange Server 2013 Sizing
+OUC-B318,Microsoft Exchange Server 2013 Tips & Tricks
+OUC-B319,Microsoft Exchange Server 2013 Transport Architecture
+OUC-B320,Microsoft System Center Advisor and System Center 2012 - Operations Manager  Better Together
+OUC-B321,All about Archiving with Microsoft Lync Server 2013
+OUC-B322,Using Windows PowerShell Magic to Manage Microsoft Office 365
+OUC-B323,Monitoring Microsoft Lync Server 2013  Getting the Most out of Monitoring Service Data
+OUC-B324,Planning and Deploying Your Enterprise Voice 
+OUC-B326,Virtualization in Microsoft Exchange Server 2013
+OUC-B327,Microsoft Lync Hybrid Scenarios
+OUC-B328,Planning and Deployment for Edge Server with Microsoft Lync Server 2013
+OUC-B329,"Modern Public Folders Overview, Migration and Microsoft Office 365"
+OUC-B330,Mobile Devices Deep Dive with Microsoft Lync Server 2013
+OUC-B331,Voice Interoperability Fundamentals
+OUC-B332,Planning  and Deploying Conferencing in Microsoft Lync Server 2013
+OUC-B333,Lap Around the Microsoft Lync 2013 Developer Platform
+OUC-B334,Migration and Coexistence with Microsoft Lync Server 2013
+OUC-B335,Scripting and Automation for Microsoft Lync
+OUC-B340,Microsoft Office 365 Deployment
+OUC-B341,Microsoft Office 365 Directory and Access Management with Windows Azure Active Directory 
+OUC-B401,Microsoft Lync Server 2013 Dial Plan and Voice Routing Deep Dive
+OUC-B405,Deep Dive into New Unified Communications Web API of Lync 2013
+OUC-H201,Exploring the New Microsoft Outlook and Outlook Web App
+OUC-H202,Managing a Pilot of the New Microsoft Office
+OUC-H203,Deploying and Configuring Microsoft Lync Server 2013 Persistent Chat
+OUC-H204,Deploying and Configuring Microsoft Lync Edge Server 2013
+OUC-H205,Deploying Microsoft Lync Server 2013
+OUC-H206,Configuring Coexistence and Interoperability with Microsoft Lync Server 2013
+OUC-H207,Configuring High Availability and Disaster Recovery in Microsoft Lync Server 2013
+OUC-H208,Deploying Microsoft Office Web App Server and Experiencing Collaboration Features
+OUC-H301,Using Archiving and eDiscovery Center in Microsoft Exchange Server 2013
+OUC-H302,Deploying Site Mailboxes
+OUC-H303,Using the Microsoft Exchange Server 2013 Admin Center
+OUC-H304,Deploying and Managing Exchange Mailbox High Availability
+OUC-H305,Configuring Microsoft Exchange Protection and Control
+OUC-H306,Managing Microsoft Office 365
+OUC-H307,Deploying Microsoft Office as a Service
+OUC-IL201,Deploying and Configuring Microsoft Lync Edge Server 2013 (repeats on 6 5 at 10 15am)
+OUC-IL201-R,Deploying and Configuring Microsoft Lync Edge Server 2013 (repeated from 6 4 at 1 30)
+PRC01,Deploying and Managing Windows 8 in the Real World
+PRC02,From 0 to DAX
+PRC03,Implementing Next Generation Infrastructure Solutions with Windows Server 2012
+PRC04,Windows Server Direct Access 
+PRC05,Simplify and Maximize System Management with Microsoft System Center 2012 SP1 - Configuration Manager  Notes from the Field
+PRC06,How to Be a Successful DBA in the Changing World of Cloud and On-Premise Data
+PRC07,Lessons from the Field  Useful Hacker Techniques for Administrators
+PRC08,Install and Configure Microsoft SharePoint 2013
+PRC09,Windows Store Apps from A to Z
+PRC10,Mastering ASP.NET MVC 4 in Just One Day
+PRC11,Kickstart Your Application Lifecycle Management Using Team Foundation Server 2012
+PRC12,Enterprise Agility Is Not an Oxymoron
+PRC13,Extending Your Apps and Infrastructure into the Cloud 
+SES-B201,0 to 60  Developing Apps for Microsoft Office 2013
+SES-B202,0 to 60  Developing Apps for Microsoft SharePoint 2013
+SES-B203,Microsoft SharePoint 2013 and Office 365 Upgrade and Migration  Strategy and Tactics 
+SES-B205,Overview of eDiscovery across the Microsoft Office Platform 
+SES-B206,Overview of Enterprise Social from Microsoft
+SES-B207,Enterprise Social Network Scared Straight  Learn By Doing
+SES-B208,What's Your Social IQ  Succeeding with SharePoint Social
+SES-B210,The Right Project Management Solution  From Microsoft SharePoint Online to Project Online
+SES-B301,Advanced Patterns in Cloud-Hosted Apps for Microsoft SharePoint
+SES-B302,Building End-to-End Apps for Microsoft SharePoint with Windows Azure and Windows 8
+SES-B303,Deliver Adaptive and Personalized Experiences with Microsoft SharePoint 2013
+SES-B304,Developing Advanced BI Visualizations with Microsoft Visio and SharePoint in the Cloud
+SES-B305,Developing Apps for Microsoft SharePoint 2013 with Microsoft Visual Studio 2012
+SES-B308,Microsoft SharePoint 2013 Sharing and Security 
+SES-B309,"Real SharePoint Apps, Real Fast with the New Microsoft Access 2013"
+SES-B310,"Search Architecture, Sizing, and Migration in Microsoft SharePoint 2013"
+SES-B311,Step by Step  Search Development in Microsoft SharePoint 2013 
+SES-B312,The Only Way to Go Is Up! Upgrade to Microsoft SharePoint 2013
+SES-B314,Understanding the Fundamentals of SharePoint Claims-Based Authentication 
+SES-B321,Microsoft IT?s Practical Guide on Migrating to the Cloud
+SES-B323,Microsoft SharePoint 2013 Administration 
+SES-B401,Tips You Need to Know for Creating Apps for Microsoft Office and SharePoint 2013 
+SES-H201,Administering the New Microsoft SharePoint Online
+SES-H202,Configuring Office Web Applications for Microsoft SharePoint 2013
+SES-H203,Configuring Social Features in Microsoft SharePoint 2013
+SES-H204,Creating a SharePoint App with Microsoft Access Services
+SES-H205,Database Snapshots with Microsoft SharePoint 2013
+SES-H206,Exploring Social Features in Microsoft SharePoint 2013
+SES-H207,Extending the Search Experience in Microsoft SharePoint 2013
+SES-H208,Information Management in Microsoft SharePoint Server 2013
+SES-H209,Introduction to Web Content Management in Microsoft SharePoint 2013
+SES-H210,Introduction to Backup and Restore in Microsoft SharePoint Server 2013
+SES-H211,Introduction to Search in Microsoft SharePoint 2013
+SES-H212,People Search in Microsoft SharePoint Server 2013
+SES-H213,What's New in Microsoft Project Professional 2013 and Sync to Microsoft SharePoint 2013
+SES-H214,What's New with the Project Portfolio Management (PPM) Solution from Microsoft 
+SES-H301,Building a Product Centric Site in Microsoft SharePoint 2013
+SES-H302,Building an Auto-Hosted App
+SES-H303,Building Content Apps for Microsoft Office 2013
+SES-H304,Building Custom Forms for Microsoft SharePoint 2013
+SES-H305,Building SharePoint Designer-Based Workflows in Microsoft SharePoint 2013
+SES-H306,"Building SharePoint-Hosted Apps with ""Napa"""
+SES-H307,Building Task Pane Apps for Microsoft Office 2013
+SES-H308,Building Visual Studio-Based Workflows in Microsoft SharePoint 2013
+SES-H309,Building Windows 8 Apps with Microsoft SharePoint 2013
+SES-H310,Business Connectivity Services (BCS) for Microsoft SharePoint 2013
+SES-H311,Configuring User License Enforcement in Microsoft SharePoint 2013
+SES-H312,Create a Microsoft Excel BI Report and Share on Microsoft SharePoint 2013
+SES-H313,Deferred Site Collection Upgrade in Microsoft SharePoint Server 2013
+SES-H314,Designing a Microsoft SharePoint 2013 Site
+SES-H315,Creating a Data-Connected Dashboard Using Visio Services
+SES-H316,Embed a Data Connected Microsoft Visio Diagram in Microsoft SharePoint 2013
+SES-H317,Exploring Search Query Rules in Microsoft SharePoint 2013
+SES-H318,Hands-on with the Content Search Web Part in Microsoft SharePoint 2013
+SES-H319,Introduction to Tenant Administration in Microsoft SharePoint Server 2013
+SES-H320,Introduction to the Machine Translation Service in Microsoft SharePoint Server 2013
+SES-H321,Introduction to Windows PowerShell with Microsoft SharePoint Server 2013
+SES-H322,Microsoft SharePoint Server 2013 Search Connectors and Using BCS
+SES-H323,Overview of IT Professional Features in Microsoft SharePoint Server 2013
+SES-H324,What's New with ECM in Microsoft SharePoint 2013
+SES-H325,Working with eDiscovery in Microsoft SharePoint Server 2013
+SES-H326,Working with List Definitions and Event Receivers in Microsoft SharePoint 2013
+SES-H327,Working with Site Mailboxes in Microsoft SharePoint Server 2013
+SES-H328,Using Business Connectivity Services (BCS) with the New Microsoft SharePoint Online
+SES-IL201,Managing Projects and Programs with Microsoft Project Server (repeats on 6 6 at 1pm)
+SES-IL201-R,Managing Projects and Programs with Microsoft Project Server (repeated from 6 3 at 4 45pm)
+SES-IL202,Managing Projects with Microsoft SharePoint and Microsoft Project Professional (repeats on 6 5 at 1 30pm)
+SES-IL202-R,Managing Projects with Microsoft SharePoint and Microsoft Project Professional (repeated from 6 4 at 3 15pm)
+TE101,TechEd 101 - An Introduction to TechEd
+TE101-R,TechEd 101 - An Introduction to TechEd (repeat)
+WAD-B201,Patterns and Practices for Running Large Multi-Tenant SaaS Service on Windows Azure (How It?s Made  MyGet.org)
+WAD-B205,Windows Azure Store
+WAD-B302,Continuous Integration with Team Foundation Services and Windows Azure Websites
+WAD-B304,Cloud-Powered Load Testing with Team Foundation Service
+WAD-B305,Take Control of the Cloud with the Windows Azure PowerShell Cmdlets
+WAD-B306,Securing Cloud Line-of-Business and SaaS Web Applications Using Windows Azure Active Directory
+WAD-B307,Securing Rich Client Applications Using OAuth 2.0 and Windows Active Directory
+WAD-B308,"Deep Dive into the Windows Azure Active Directory Graph API ?Data Model, Schema, Query, and More"
+WAD-B309,Introduction to Windows Azure Active Directory
+WAD-B310,Messaging with Windows Azure Service Bus
+WAD-B312,Microsoft Integration Vision and Roadmap
+WAD-B313,Introduction to Windows Azure BizTalk Services 
+WAD-B314,Microsoft BizTalk Server 2013 in Windows Azure IaaS
+WAD-B315,Extending Windows Azure BizTalk Services
+WAD-B317,Building Media Workflows in the Cloud with Windows Azure Media Services
+WAD-B318,Building Rich Media Applications with Windows Azure Media Services
+WAD-B319,Developing Connected Windows Store Apps with Windows Azure Mobile Service  Overview
+WAD-B320,Key Ingredients for Building Hybrid (Cross-Premises) Cloud Applications
+WAD-B321,Build Your First Cloud App  An Introduction to Windows Azure Cloud Services
+WAD-B325,IaaS + PaaS = <3
+WAD-B326,Maximum Performance  Accelerate Your Cloud Services Applications with Windows Azure Caching 
+WAD-B327,Windows Azure Web Sites and On-Premises Connectivity
+WAD-B329,Windows Azure Web Sites  An Architecture and Technical Deep Dive
+WAD-B335,Designing Cloud Architectures
+WAD-B336,Connected Clients and Continuous Services with Windows Azure Service Bus
+WAD-B337,"Lap Around Monitoring, Management and DevOps Solutions in Windows Azure"
+WAD-B338,"Build Real-World Modern Apps with Windows Azure Mobile Services on Windows Store, Windows Phone or Android"
+WAD-B339,Developing iOS and Android Apps with Windows Azure Mobile Services
+WAD-B340,Building Private Clouds Using Windows Azure Services for Windows Server
+WAD-B343,B2B Collaboration on Windows Azure
+WAD-B345,Lessons Learned  Real-World Architectures and Examples
+WAD-B351,Windows Azure from the Pulpit to the Whiteboard (or Boardroom)
+WAD-B361,Introducing Microsoft BizTalk Server 2013
+WAD-B401,"Building Elastic, Autoscalable Solutions with Windows Azure"
+WAD-B402,Windows Azure Internals
+WAD-B403,Designing and Building Disaster Recovery Enabled Solutions in Windows Azure
+WAD-B405,Developing Hybrid Solutions with Microsoft BizTalk Server 2013 and Windows Azure
+WAD-B406,Getting the Most out of Windows Azure Storage
+WAD-H301,Build Your Microsoft SharePoint Server 2013 Lab in the Cloud with Windows Azure
+WAD-H302,Lap Around Workflow Manager
+WAD-IL201,"Getting to Know Windows Azure IaaS, Part 1 (repeats on 6 5 at 3 15pm)"
+WAD-IL201-R,"Getting to Know Windows Azure IaaS, Part 1 (repeated from 6 4 at 3 15pm)"
+WAD-IL202,"Getting to Know Windows Azure IaaS, Part 2 (repeats on 6 5 at 5pm)"
+WAD-IL202-R,"Getting to Know Windows Azure IaaS, Part 2 (repeated from 6 4 at 5pm)"
+WCA-B201,"Everything You Ever Wanted to Know about Windows, But Were Afraid to Ask"
+WCA-B203,Microsoft Application Virtualization 5.0 and Microsoft Office  Better Together
+WCA-B204,Active Directory Enables User Productivity and IT Risk Management Strategies Across a Variety of Devices
+WCA-B205,Sequencing Applications Using the New Microsoft Application Virtualization 5.0 Sequencer
+WCA-B206,The Replaceable PC
+WCA-B207,Understanding Access and Information Protection
+WCA-B208,Microsoft Application Virtualization 5.0 Migration and Co-Existence with 4.6
+WCA-B209,What's New with Windows 8 BitLocker and Microsoft BitLocker Administration and Management (MBAM) 2.0
+WCA-B210,Securing Windows 8 Clients and Resources from Threats
+WCA-B214,Windows Server Work Folders overview ? my corporate data on all my devices
+WCA-B215,Using Dynamic Access Control and Rights Management for Information Protection
+WCA-B220,P0wn3d! What?s Next 
+WCA-B301,A Drivers Saga  Mastering Windows Deployment
+WCA-B302,Advanced Microsoft Deployment Toolkit 2012 Customizations  Dueling MDT Enhancements   
+WCA-B303,App Compat for Nerds
+WCA-B304,Application Delivery with Microsoft System Center 2012 SP1 - Configuration Manager and Windows Intune
+WCA-B305,Building the Perfect Windows 8 Image
+WCA-B306,Case of the Unexplained 2013  Windows Troubleshooting with Mark Russinovich
+WCA-B307,Case Study  How Microsoft IT is Using Microsoft System Center 2012 - Configuration Manager
+WCA-B308,Configuring and Tuning Windows 8
+WCA-B309,Demonstrations of Windows Assessment and Deployment Kit Tools
+WCA-B310,Deploying and Configuring Mobile Device Management Infrastructure with Microsoft System Center 2012 SP1 - Configuration Manager and Windows Intune
+WCA-B311,Deploying and Managing Virtual Applications and Settings with Microsoft System Center 2012 SP1 - Configuration Manager and MDOP
+WCA-B312,Deploying and Managing Windows 8 with Microsoft System Center 2012 SP1 - Configuration Manager 
+WCA-B313,Deploying Microsoft System Center 2012 SP1 - Configuration Manager with Windows Intune at Microsoft
+WCA-B314,Designing a Virtual Desktop Infrastructure Architecture for Scale and Performance on Window Server 2012
+WCA-B315,Field Experience  Troubleshooting Long Boot and High Resource Consumptions
+WCA-B316,"x86, x64 or ARM  Forget the Details and Use Remote Resources to Run Any App on Your Windows Device"
+WCA-B317,How Many Coffees (New 2013 Edition) Can You Drink While Your PC Starts 
+WCA-B318,"How to Develop a Successful Flexible Workspace Strategy (BYOD, Consumerization, VDI, Tablet) "
+WCA-B319,Implementing Microsoft Application Virtualization 5.0  Lessons Learned from a Production Rollout
+WCA-B320,Implementing Self-Service Desktop Refresh in Six Easy Steps with Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-B321,Information Protection in 2013  Customer Readiness and Implementation Considerations
+WCA-B322,"Information Protection in 2013  Hybrid RMS, Generic Protection, and iOS Android WinRT Support"
+WCA-B323,Integrating RDS with Microsoft System Center 2012 - Virtual Machine Manager Service Templates  Complete Automation for RemoteApps and Remote Desktops
+WCA-B324,Integrating the New Microsoft Application Virtualization 5.0 with other Virtualization Solutions
+WCA-B325,Making PC Recovery Easier with the Microsoft Diagnostics and Recovery Toolset (DaRT)
+WCA-B326,Managing Embedded Devices with Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-B327,Microsoft IT  How We Upgrade Microsoft System Center - Configuration Manager Hierarchy (Almost) Every Month Using Orchestrator Automation
+WCA-B328,Microsoft System Center 2012 SP1 - Configuration Manager Overview
+WCA-B329,New Architecture for the New World with Citrix XenDesktop on Microsoft Hyper-V Server 2012
+WCA-B330,Optimizing Windows 8 for Virtual Desktop Infrastructure
+WCA-B332,Windows Server Work Folders ? a Deep Dive into the New Windows Server Data Sync Solution 
+WCA-B333,Enable Work from Anywhere without Losing Sleep  Remote Access with the Web Application Proxy and VPN Solutions
+WCA-B334,Secure Anywhere Access to Corporate Resources Such as Windows Server Work Folders Using ADFS
+WCA-B335,Raiders of the Elevated Token  Understanding User Account Control and App Capabilities in Windows 8
+WCA-B336,Upgrading the Platform - How to Get There! Part 2  Reimagining and Migrating Your Active Directory
+WCA-B337,Replacing BIOS with a UEFI Deployment
+WCA-B338,Solving the 'Needle in a Haystack' Dilemma with Citrix and Microsoft
+WCA-B339,The Future Is Now! Next Generation Remote Access Today with Windows Server 2012 DirectAccess
+WCA-B341,Tuning Images for VDI Usage
+WCA-B342,"Understanding Windows To Go  Supported Use Cases, Hardware Considerations, and Deployment Options in the Enterprise"
+WCA-B343,Unified Modern Device Management with Microsoft System Center 2012 SP1 - Configuration Manager Integrated with Windows Intune
+WCA-B345,VDI Smackdown 2013 Edition
+WCA-B346,What's New in Windows Server 2012 Active Directory
+WCA-B346-R,What's New in Windows Server 2012 Active Directory (repeated from 6 3 at 1 15 pm)
+WCA-B347,What's New with Microsoft Deployment Toolkit 2012 Update 1
+WCA-B348,What's New in Infrastructure  Microsoft System Center 2012 SP1 - Configuration Manager Infrastructure Improvements and Hierarchy Design
+WCA-B349,What's New in Windows 8 Deployment
+WCA-B350,What's New in Windows Server 2012 Virtual Desktop Infrastructure and Remote Desktop Services
+WCA-B351,Windows 8 Image Engineering  Notes from the Field
+WCA-B353,Windows 8  Blackbelt Troubleshooting
+WCA-B354,Windows 8  Essential Security Features Every Admin Should Know About
+WCA-B355,Internet Explorer 10 Administration
+WCA-B356,Windows Intune Overview
+WCA-B357,Windows RT in the Enterprise
+WCA-B358,Windows Store Apps  Enterprise LOB App Deployment Scenarios
+WCA-B359,Microsoft User Experience Virtualization (UE-V)  How to Manage and Deploy UE-V across an Enterprise 
+WCA-B360,Pieces of 8  Prospecting for Windows 8 Gold
+WCA-B370,What?s New in Windows 8.1 Security  Overview (repeats on 6 4 at 5 pm)
+WCA-B370-R,What?s New in Windows 8.1 Security  Overview (repeated from 6 3 at 3pm)
+WCA-B375,What?s New in Windows 8.1 Security  Modern Access Control Deep Dive
+WCA-B393,Windows Server 2012 Desktop Virtualization (VDI) on Dell Active Infrastructure
+WCA-B401,Hardcore Debugging
+WCA-H200,New for SP1  Upgrading from Microsoft System Center 2012 - Configuration Manager to Configuration Manager 2012 SP1
+WCA-H201,"Microsoft Application Virtualization 5.0 Sequencing, Migration and Coexistence"
+WCA-H202,"Microsoft Application Virtualization 5.0  Flexible Virtualization with Virtual Application Connection, Virtual Application Extension and Dynamic Configuration"
+WCA-H203,Getting Started with Microsoft Deployment Toolkit 2012 Update 1
+WCA-H204,Implementing and Managing Microsoft Application Virtualization 5.0
+WCA-H205,Microsoft Bitlocker Administration and Monitoring (MBAM) v2
+WCA-H206,Microsoft Diagnostics and Recovery Toolset (DaRT)
+WCA-H207,Microsoft User Experience Virtualization Overview
+WCA-H208,Microsoft User Experience Virtualization Setup and Configuration Lab
+WCA-H209,Windows 8 Deployment Using Microsoft Deployment Toolkit 2012 Update 1 and Microsoft System Center 2012 SP1 - Configuration Manager 
+WCA-H216,Managing App-V 5.0 with Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-H217,Microsoft Desktop Optimization Pack  Advanced Group Policy Management 4.0 SP1
+WCA-H218,Microsoft Application Virtualization (App-V) 5.0 Overview
+WCA-H300,Active Directory Deployment and Management Enhancements
+WCA-H301,Advanced Software Distribution
+WCA-H302,Basic Software Distribution
+WCA-H303,Deploying a Microsoft System Center 2012 - Configuration Manager Hierarchy
+WCA-H304,Deploying Microsoft System Center 2012 - Configuration Manager
+WCA-H305,Deploying Windows 8 to Bare Metal Clients
+WCA-H307,Implementing Microsoft System Center 2012 - Endpoint Protection 
+WCA-H308,Implementing Settings Management
+WCA-H309,Introduction to Microsoft System Center 2012 - Configuration Manager
+WCA-H310,Managing Applications
+WCA-H311,Managing Clients
+WCA-H312,Managing Content
+WCA-H313,Managing Microsoft Software Updates
+WCA-H314,Migrating from Microsoft System Center Configuration Manager 2007 to Configuration Manager 2012
+WCA-H315,New for SP1  Deploying Windows 8 Applications in Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-H316,New for SP1  Expanding a Microsoft System Center 2012 SP1 - Configuration Manager Hierarchy
+WCA-H317,New for SP1  Implementing App-V 5.0 in Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-H318,New for SP1  Implementing Database Replication Controls in Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-H319,New for SP1  Implementing Linux Clients in Microsoft System Center 2012 SP1 - Configuration Manager
+WCA-H325,Enabling Secure Remote Users with RemoteApp and VDI
+WCA-H326,Protecting information with Dynamic Access Control
+WCA-H327,Windows Server 2012 R2  Enabling Windows Server Work Folders
+WCA-H401,Implementing Role-Based Administration
+WCA-IL201,Getting Started with Microsoft Deployment Toolkit (MDT) 2012 Update 1 (repeats on 6 5 at 10 15am)
+WCA-IL201-R,Getting Started with Microsoft Deployment Toolkit (MDT) 2012 Update 1 (repeated from 6 4 at 8 30am)
+WIT01,Women in Technology Luncheon  Managing Change and Transitions
+WPH-B201,"The Power of Collaboration  Integrating Windows Phone with Microsoft Office 365, Exchange and SharePoint Online"
+WPH-B202,The Phone That Has Everything the Enterprise Needs  Windows Phone 8 
+WPH-B203,Mobile Security in the Enterprise  Windows Phone 8 Answers the Call
+WPH-B204,Radical Perspectives on Mobility Strategy
+WPH-B205,The Top Down Guide for Developers  Windows Phone 8 
+WPH-B207,Manage Windows Phone Enterprise Apps
+WPH-B301,Speechifying your Windows Phone 8 Applications
+WPH-B302,Secrets of Using  Background Agents for Windows Phone 8
+WPH-B303,Build It Once For Both  Writing Code and Designing for Windows 8 and Windows Phone 8
+WPH-B304,All Aboard for the Future of HTML5 Mobile and Hybrid Web Apps for Windows Phone 8 and Windows Tablets
+WPH-B305,Developing Large-Scale Enterprise Mobile Apps for Windows Phone 8 and Windows Tablets
+WPH-B306,Support Your Demanding LOB Apps With SQLite and Windows Phone 8
+WPH-B307,Creating Windows Phone 8 Apps for Microsoft SharePoint Server 2013
+WPH-B308,Using C and C++ in Your Windows Phone 8 Applications 
+WPH-B309,The Windows Phone 8 Networking Survival Kit
+WPH-H201,Windows Phone 8  File and Protocol Association
+WPH-H202,Windows Phone 8  Lock Screen Wallpaper
+WPH-H203,Windows Phone 8  Purchase
+WPH-H204,Windows Phone 8  Running Tracker
+WPH-H205,Windows Phone 8  Tiles
+WPH-H206,Windows Phone 8  Voice Command
+WPH-H207,Windows Phone 8  Wallet
+WPH-H208,Porting Windows 8 to Windows Phone 8
